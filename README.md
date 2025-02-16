@@ -1,3 +1,9 @@
+Technologies Used
+Framework: Spring Boot
+Database: Mysql
+ORM: Hibernate
+Build Tool: Maven
+
 #Add a Movie
 POST /movies
 Content-Type: application/json
